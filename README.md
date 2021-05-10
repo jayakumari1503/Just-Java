@@ -2,6 +2,8 @@
 I have made an application to order coffee through email.You can also see it live by downloading this [APK](https://github.com/jayakumari1503/Just-Java/releases/download/v1/app-debug.apk)
 
 # Preview of the Application
-![Screenshot_2021-05-10-01-58-28-11_132cbc5925319672770491d59bd5dc18](https://user-images.githubusercontent.com/78533628/117586259-b7808100-b134-11eb-800b-23b652cd7e6f.jpg)
+![Screenshot_2021-05-10-08-54-19-83_132cbc5925319672770491d59bd5dc18](https://user-images.githubusercontent.com/78533628/117602255-d7806680-b16d-11eb-9c55-58f19378ddf8.jpg)
+
+![Screenshot_2021-05-10-08-59-52-50_132cbc5925319672770491d59bd5dc18](https://user-images.githubusercontent.com/78533628/117602448-62f9f780-b16e-11eb-8635-f8cb9337214b.jpg)
 
 ![Screenshot_2021-05-10-01-58-38-18](https://user-images.githubusercontent.com/78533628/117586263-bc453500-b134-11eb-8a1c-dc9fb214b17c.jpg)
