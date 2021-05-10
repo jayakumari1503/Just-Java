@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/coffee"
     android:padding="16dp"
     tools:context=".MainActivity">
 
@@ -111,7 +112,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:backgroundTint="@color/design_default_color_primary_dark"
         android:ems="10"
         android:hint="Enter your name"
         android:inputType="textPersonName"
